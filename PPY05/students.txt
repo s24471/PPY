@@ -1,0 +1,4 @@
+jan.kowalski@example.com Jan Kowalski 75 4 MAILED
+anna.nowak@example.com Anna Nowak 90 4.5 GRADED
+marek.wisniewski@example.com Marek Wisniewski 60 3 GRADED
+jan.wisniewski@example.com Jan Smith 60
